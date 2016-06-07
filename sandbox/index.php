@@ -67,8 +67,8 @@ getHeader("PHP Examples| Home");
 		<p>Object Oriented Programming</p>
 		<ul>
 		<li><a href="classes.php" target="_blank">Class Example</a></li>
-		<li><a href="../oop/address-demo-1.php" target="_blank">Address Demo 1</a></li> 
-		<li><a href="../oop/address-demo-2.php" target="_blank">Address Demo 2</a></li> 
+		<li><a href="oop/address-demo-1.php" target="_blank">Address Demo 1</a></li> 
+		<li><a href="oop/address-demo-2.php" target="_blank">Address Demo 2</a></li> 
 		</ul>
 		
 		<p>Web Development</p>
