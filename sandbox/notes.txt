@@ -1,0 +1,212 @@
+PHP Notes
+
+PHP Error reporting
+
+In php.ini file
+	-----------------------------------------------------------------------------------------------
+	display_errors = On
+	error_reporting = E_ALL
+
+	Another example:
+	
+	<?php
+	// Set error reporting.
+	error_reporting(E_ALL | E_STRICT);
+	// Display errors.
+	ini_set('display_errors', 1);
+	// Log errors.
+	ini_set('log_errors', 1);
+	// No error log message max.
+	ini_set('log_errors_max_len', 0);
+	// Specify log file.
+	ini_set('error_log', './error_log.txt');
+	
+	echo "<h1>triggering notice</h1>";
+	var_dump($error);
+	?>
+	
+In PHP code
+	
+	ini_set('display_errors', 'On');
+	error_reporting(E_ALL);
+	
+Debugging
+	
+	echo $variable;			// variable value
+	print_r($array);		// print readable array
+	gettype($variable);		// variable type
+	var_dump($variable);	// variable type and array
+	get_defined_vars();		// array of defined variables
+	debug_backtrace();		// show backtrace
+	
+Links and URLs
+
+	URLs/Links	GET		$_GET
+	Forms		POST	$_POST
+	Cookies		COOKIE	$_COOKIE
+	
+	<?php 
+	//Setting URL appended value
+	?>
+	<?php $link_name = "Products"; ?>
+	<?php id = 5; ?>
+	<a href="page.php?id=<?php echo $id; ?>"><?php echo $link_name; ?></a>
+	
+	<?php
+	//Retrieving URL appended value
+	?>
+	<?php
+	$id = $_GET['id'];
+	echo "id: " . $id . "<br />";
+	?>
+	
+	<?php
+	// Encoding GET values
+	// Reserved Characters in URLs
+	//	!	%21 
+	//	#	%23
+	//	$	%24
+	//	%	%25
+	//	&	%26
+	//	'	%27
+	//	(	%28
+	//	)	%29
+	//	*	%2A
+	//	+	%2B
+	//	,	%2C
+	//	/	%2F
+	//	:	%3A
+	//	;	%3B
+	//	=	%3D
+	//	?	%3F
+	//	@	%40
+	//	[	%5B
+	//	]	%5D
+	?>
+	<?php $link_name = "Products"; ?>
+	<?php id = 5; ?>
+	<?php $company = "Clark & Smith";
+	<a href="page.php?id=<?php echo $id; ?>&<?php echo urlencode($company); ?>"><?php echo $link_name; ?></a>
+	
+	
+	<a href="page.php?id=<?php echo $id; ?>&<?php echo rawurlencode($company); ?>"><?php echo $link_name; ?></a>
+	
+rawurlencode the path - the part before the "?"
+urlencode the query string
+
+		<?php
+		$page = "William Shakespeare";
+		$quote = "To be or not to be";
+		$link1 = "/bio/" . rawurlencode($page) . "?quote=" .
+			urlencode($quote);
+			
+			echo $link1 . "<br />";
+			
+Including Files
+
+	functions.php
+	-------------
+	<?php
+		function hello($name){
+			return "Hello {$name}";
+		}
+	?>
+	-----------------------------------------------------------------------------------------------
+	index.php
+	---------
+	<?php
+	include("functions.php");
+	?>
+	
+	<?php
+	echo hello("Mary");
+	?>
+	-----------------------------------------------------------------------------------------------
+	
+Requiring Files
+	
+	<?php
+	require() 		// same as include, but raises fatal page error 
+					// if the file is not found
+	include_once()
+	require_once()	
+	?>
+	-----------------------------------------------------------------------------------------------
+Redirect
+
+	<?php
+		function redirect_to($new_location){
+			header("Location: " . $new_location);
+			exit;
+		}
+		
+		$logged_in = $_GET['logged_in'];
+		if ($logged_in == "1") {
+			redirect_to("home.php");
+		} else {
+			redirect_to("sign_in.php");
+		}
+	?>
+	
+	<!doctype html>
+	<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	.
+	.
+	.
+	-----------------------------------------------------------------------------------------------
+MySQL 
+
+	> mysql --version
+	> mysql -u root -p
+	> Enter password........
+	
+	SHOW DATABASES;
+	
+	CREATE DATABASE db_name;
+	
+	USE db_name;
+	
+	DROP DATABASE db_name;
+
+	GRANT ALL PRIVILEGES ON db_name.*
+	TO 'username'@'localhost'
+	IDENTIFIED BY 'password';
+	
+	SHOW GRANTS FOR 'username'@'localhost'
+	
+	> mysql -u widget_cms -p widget_corp;
+	
+	DESCRIBE table_name;
+	
+	SHOW COLUMNS FROM table_name;
+	
+	DROP TABLE table_name;
+
+	# CRUD
+	# create	INSERT
+	# read		SELECT
+	# update	UPDATE
+	# delete	DELETE
+	
+	SELECT * 
+	FROM table_name 
+	WHERE column_name = 'some text' 
+	ORDER BY column_name ASC;
+
+	INSERT INTO table_name (column1, column2, column3)
+	VALUES (val1, val2, val3);
+	
+	UPDATE table_name
+	SET column1 = 'some text', column2 = 'some more text'
+	WHERE id = 1;
+	
+	DELETE FROM table_name WHERE id = 1;
+
+
+
+	
+	
+	
+	

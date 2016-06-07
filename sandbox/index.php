@@ -82,7 +82,6 @@ getHeader("PHP Examples| Home");
 		<p>Database Programming</p>
 		<ul>
 		<li><a href="databases.php" target="_blank">Databases</a></li>
-		<li><a href="../cms/public/index.php" target="_blank">CMS</a></li>
 		</ul>
 		
 		<p>Files and Directories</p>
