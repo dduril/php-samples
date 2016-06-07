@@ -21,7 +21,7 @@ function getFooter()
 {
 ?>
 	<footer>
-	<p>&copy; 2015</p>	
+	<p>&copy; 2016</p>	
 	</footer>
 	</body>
 	</html>
