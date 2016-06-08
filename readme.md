@@ -6,7 +6,7 @@ Short PHP scripts to demonstrate syntax and basic operations. These examples can
 
 - **<a href="http://php.net/" target="_blank">PHP Official Site</a>**
 - **<a href="http://php.net/manual/en/" target="_blank">PHP Manual</a>**
-- **<a href="https://en.wikipedia.org/wiki/PHP" target="_blank">PHP - Wikipedia Page</a>**
+- **<a href="https://en.wikipedia.org/wiki/PHP" target="_blank">PHP Wikipedia Page</a>**
 
 ### Popular Tutorials
 
