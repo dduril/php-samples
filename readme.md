@@ -25,6 +25,18 @@ Short PHP scripts to demonstrate syntax and basic operations. These examples can
 - **<a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 - **<a href="http://www.zend.com/en/products/studio/" target="_blank" title="Zend Studio">Zend Studio</a>**
 
+### Known Accomplices
+
+- **<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux</a>**
+- **<a href="http://www.apache.org/" target="_blank">Apache</a>**
+- **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
+
+### Additional Resources
+
+- **<a href="https://pear.php.net/" target="_blank">PEAR</a>** - PHP Extension and Application Repository
+- **<a href="https://pecl.php.net/" target="_blank">PECL</a>** - PHP Extension Community Library
+
+
 
 
 
