@@ -25,6 +25,13 @@ Short PHP scripts to demonstrate syntax and basic operations. These examples can
 - **<a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 - **<a href="http://www.zend.com/en/products/studio/" target="_blank" title="Zend Studio">Zend Studio</a>**
 
+### Content Management Systems 
+
+- **<a href="http://www.concrete5.org/" target="_blank">Concrete5</a>**
+- **<a href="https://www.drupal.org/" target="_blank">Drupal</a>**
+- **<a href="http://www.joomla.org/" target="_blank">Joomla</a>**
+- **<a href="http://wordpress.org/" target="_blank">WordPress</a>** - **<a href="http://codex.wordpress.org/" target="_blank">WP Codex</a>**
+
 ### Known Accomplices
 
 - **<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux</a>**
