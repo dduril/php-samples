@@ -32,6 +32,18 @@ Short PHP scripts to demonstrate syntax and basic operations. These examples can
 - **<a href="http://www.joomla.org/" target="_blank">Joomla</a>**
 - **<a href="http://wordpress.org/" target="_blank">WordPress</a>** - **<a href="http://codex.wordpress.org/" target="_blank">WP Codex</a>**
 
+### Frameworks
+
+- **<a href="http://cakephp.org/" target="_blank">CakePHP</a>**
+- **<a href="http://ellislab.com/codeigniter" target="_blank">CodeIgniter</a>**
+- **<a href="http://laravel.com/" target="_blank">Laravel</a>**
+- **<a href="http://phalconphp.com/en/" target="_blank">Phalcon</a>**
+- **<a href="http://www.slimframework.com/" target="_blank">Slim</a>**
+- **<a href="http://symfony.com/" target="_blank">Symfony2</a>**
+- **<a href="http://twig.sensiolabs.org/" target="_blank">Twig - Template Engine</a>**
+- **<a href="http://www.yiiframework.com/" target="_blank">Yii</a>**
+- **<a href="http://framework.zend.com/" target="_blank">Zend Framework 2</a>**
+
 ### Known Accomplices
 
 - **<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux</a>**
