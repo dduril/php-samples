@@ -2,6 +2,9 @@
 
 Short PHP scripts to demonstrate syntax and basic operations. These examples can be used as a primer for understanding and reviewing data types, variables, constants, expressions, control structures, functions, arrays and more. 
 
+Also included are common use cases such as object oriented programming, database, file input/output, form processing, cookies and sessions.
+
+
 ### Popular PHP Sites
 
 - **<a href="http://php.net/" target="_blank">PHP Official Site</a>**
