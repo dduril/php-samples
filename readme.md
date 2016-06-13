@@ -28,6 +28,7 @@ Also included are common use cases involving object oriented programming, databa
 - **<a href="http://www.jetbrains.com/phpstorm/" target="_blank" title="PhpStorm">PhpStorm</a>**
 - **<a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 - **<a href="http://www.zend.com/en/products/studio/" target="_blank" title="Zend Studio">Zend Studio</a>**
+- **<a href="https://en.wikipedia.org/wiki/List_of_PHP_editors" target="_blank">Wikipedia - Complete List of Editors</a>**
 
 ### Content Management Systems 
 
