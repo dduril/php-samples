@@ -1,9 +1,12 @@
 # PHP Samples
 
-Short PHP scripts to demonstrate syntax and basic operations. These examples can be used as a primer for understanding and reviewing data types, variables, constants, expressions, control structures, functions, arrays and more. 
+Short PHP scripts to demonstrate syntax and general operations. These examples can be used as a primer for understanding and reviewing data types, variables, constants, expressions, control structures, functions, arrays and more. They were completed using several PHP books and online tutorials.
 
-Also included are common use cases involving object oriented programming, database programming, file io operations, processing forms, using cookies and sessions, debugging and exception handling.
+Also included are common scripts demonstrating how to perform object oriented programming, database programming, file io operations, processing forms, using cookies and sessions, debugging and exception handling.
 
+Referenced here are many links to getting started and learning about PHP editors, content management systems, frameworks and additional tools and utilities commonly used in PHP development.
+
+My goal is to document a general how-to for PHP and a quick stop for looking up the basics and prepping for interviews.
 
 ### Popular PHP Sites
 
