@@ -6,7 +6,7 @@ Also included are common scripts demonstrating how to perform object oriented pr
 
 Referenced here are many links to getting started and learning about PHP editors, content management systems, frameworks and additional tools and utilities commonly used in PHP development.
 
-My goal is to document a general how-to for PHP and a quick stop for looking up the basics and prepping for interviews.
+My goal is to document a general how-to for PHP development and quick stop for review.
 
 ### Popular PHP Sites
 
