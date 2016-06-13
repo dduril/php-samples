@@ -16,6 +16,7 @@ Also included are common use cases involving object oriented programming, databa
 - **<a href="https://www.codecademy.com/learn/php" target="_blank">Codecademy</a>**
 - **<a href="https://netbeans.org/kb/trails/php.html" target="_blank">PHP and HTML5 Learning Trail</a>**
 - **<a href="http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/" target="_blank">PHP 101 : PHP for the Absolute Beginner</a>**
+- **<a href="https://en.wikibooks.org/wiki/PHP_Programming" target="_blank">WikiBooks</a>**
 
 ### Some Popular IDEs and Editors
 
