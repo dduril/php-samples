@@ -1,11 +1,8 @@
 <?php
-include "includes\library.php";
-getHeader("PHP Examples| Variables");
+include "..\includes\library.php";
+getHeader("PHP Examples| Variables", "Variables", 2);
 ?>
-	<header>
-		<h1>PHP</h1>
-		<h2>Variables</h2>
-	</header>
+
 	
 	<div id="wrapper">	
 		<?php 
@@ -17,6 +14,6 @@ getHeader("PHP Examples| Variables");
 		?>	
 	</div>
 <?php
-getFooter();
+getFooter(2);
 ?>	
 
