@@ -1,7 +1,5 @@
 # PHP Samples
 
-**TODO: Re-architect include file, setup package.json file, add support for Bootstrap and jQuery and implement fixes for all script examples. (June 15, 2016).**
-
 Short PHP scripts to demonstrate syntax and general operations. These examples can be used as a primer for understanding and reviewing data types, variables, constants, expressions, control structures, functions, arrays and more. They were completed using several PHP books and online tutorials.
 
 Also included are common scripts demonstrating how to perform object oriented programming, database programming, file io operations, processing forms, using cookies and sessions, debugging and exception handling.
