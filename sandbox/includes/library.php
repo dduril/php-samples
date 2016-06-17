@@ -26,7 +26,8 @@ function getHeader($title, $subtitle, $depth)
         <div class="row row-content">
             <div class="col-xs-12">    
               <h1>PHP</h1>
-              <h2><?php echo $subtitle; ?></h2>         
+              <h2><?php echo $subtitle; ?></h2> 
+              <hr>        
 <?php
 }	
 ?>
