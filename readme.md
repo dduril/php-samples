@@ -10,9 +10,9 @@ My goal is to document a general how-to for PHP development and quick stop for r
 
 ### Popular PHP Sites
 
-- **<a href="http://php.net/" target="_blank">PHP Official Site</a>**
-- **<a href="http://php.net/manual/en/" target="_blank">PHP Manual</a>**
-- **<a href="https://en.wikipedia.org/wiki/PHP" target="_blank">PHP Wikipedia Page</a>**
+- **[PHP Official Site](http://php.net/)**
+- **[PHP Manual](http://php.net/manual/en/)**
+- **[PHP Wikipedia Page](https://en.wikipedia.org/wiki/PHP)**
 
 ### Popular Tutorials
 
