@@ -16,29 +16,29 @@ My goal is to document a general how-to for PHP development and quick stop for r
 
 ### Popular Tutorials
 
-- **<a href="https://www.codecademy.com/learn/php" target="_blank">Codecademy</a>**
-- **<a href="https://netbeans.org/kb/trails/php.html" target="_blank">PHP and HTML5 Learning Trail</a>**
-- **<a href="http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/" target="_blank">PHP 101 : PHP for the Absolute Beginner</a>**
-- **<a href="https://en.wikibooks.org/wiki/PHP_Programming" target="_blank">WikiBooks</a>**
+- **[Codecademy](https://www.codecademy.com/learn/php)**
+- **[PHP and HTML5 Learning Trail](https://netbeans.org/kb/trails/php.html)**
+- **[PHP 101 : PHP for the Absolute Beginner](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)**
+- **[WikiBooks](https://en.wikibooks.org/wiki/PHP_Programming)**
 
 ### Some Popular IDEs and Editors
 
-- **<a href="http://www.aptana.com/" target="_blank" title="Aptana Studio 3">Aptana Studio 3</a>**
-- **<a href="http://brackets.io/" target="_blank">Brackets</a>**
-- **<a href="https://www.eclipse.org/pdt/" target="_blank">Eclipse PDT</a>**
-- **<a href="https://netbeans.org/features/php/" target="_blank" title="NetBeans">NetBeans</a>**
-- **<a href="http://www.notepad-plus-plus.org/" target="_blank" title="Notepad++">Notepad++</a>**
-- **<a href="http://www.jetbrains.com/phpstorm/" target="_blank" title="PhpStorm">PhpStorm</a>**
-- **<a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a>**
-- **<a href="http://www.zend.com/en/products/studio/" target="_blank" title="Zend Studio">Zend Studio</a>**
-- **<a href="https://en.wikipedia.org/wiki/List_of_PHP_editors" target="_blank">Wikipedia - Complete List of Editors</a>**
+- **[Aptana Studio 3](http://www.aptana.com/)**
+- **[Brackets](http://brackets.io/)**
+- **[Eclipse PDT](https://www.eclipse.org/pdt/)**
+- **[NetBeans](https://netbeans.org/features/php/)**
+- **[Notepad++](http://www.notepad-plus-plus.org/)**
+- **[PhpStorm](http://www.jetbrains.com/phpstorm/)**
+- **[Sublime Text](http://www.sublimetext.com/)**
+- **[Zend Studio](http://www.zend.com/en/products/studio/)**
+- **[Wikipedia - Complete List of Editors](https://en.wikipedia.org/wiki/List_of_PHP_editors)**
 
 ### Content Management Systems 
 
-- **<a href="http://www.concrete5.org/" target="_blank">Concrete5</a>**
-- **<a href="https://www.drupal.org/" target="_blank">Drupal</a>**
-- **<a href="http://www.joomla.org/" target="_blank">Joomla</a>**
-- **<a href="http://wordpress.org/" target="_blank">WordPress</a>** - **<a href="http://codex.wordpress.org/" target="_blank">WP Codex</a>**
+- **[Concrete5](http://www.concrete5.org/)**
+- **[Drupal](https://www.drupal.org/)**
+- **[Joomla](http://www.joomla.org/)**
+- **[WordPress](http://wordpress.org/)** - **[WP Codex](http://codex.wordpress.org/)**
 
 ### Frameworks
 
