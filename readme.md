@@ -42,26 +42,26 @@ My goal is to document a general how-to for PHP development and quick stop for r
 
 ### Frameworks
 
-- **<a href="http://cakephp.org/" target="_blank">CakePHP</a>**
-- **<a href="http://ellislab.com/codeigniter" target="_blank">CodeIgniter</a>**
-- **<a href="http://laravel.com/" target="_blank">Laravel</a>**
-- **<a href="http://phalconphp.com/en/" target="_blank">Phalcon</a>**
-- **<a href="http://www.slimframework.com/" target="_blank">Slim</a>**
-- **<a href="http://symfony.com/" target="_blank">Symfony2</a>**
-- **<a href="http://twig.sensiolabs.org/" target="_blank">Twig - Template Engine</a>**
-- **<a href="http://www.yiiframework.com/" target="_blank">Yii</a>**
-- **<a href="http://framework.zend.com/" target="_blank">Zend Framework 2</a>**
+- **[CakePHP](http://cakephp.org/)**
+- **[CodeIgniter](http://ellislab.com/codeigniter)**
+- **[Laravel](http://laravel.com/)**
+- **[Phalcon](http://phalconphp.com/en/)**
+- **[Slim](http://www.slimframework.com/)**
+- **[Symfony2](http://symfony.com/)**
+- **[Twig - Template Engine](http://twig.sensiolabs.org/)**
+- **[Yii](http://www.yiiframework.com/)**
+- **[Zend Framework 2](http://framework.zend.com/)**
 
 ### Known Accomplices
 
-- **<a href="https://en.wikipedia.org/wiki/Linux" target="_blank">Linux</a>**
-- **<a href="http://www.apache.org/" target="_blank">Apache</a>**
-- **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
+- **[Linux](https://en.wikipedia.org/wiki/Linux)**
+- **[Apache](http://www.apache.org/)**
+- **[MySQL](https://www.mysql.com/)**
 
 ### Additional Resources
 
-- **<a href="https://pear.php.net/" target="_blank">PEAR</a>** - PHP Extension and Application Repository
-- **<a href="https://pecl.php.net/" target="_blank">PECL</a>** - PHP Extension Community Library
+- **[PEAR](https://pear.php.net/)** - PHP Extension and Application Repository
+- **[PECL](https://pecl.php.net/)** - PHP Extension Community Library
 
 
 
